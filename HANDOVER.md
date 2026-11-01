@@ -27,6 +27,11 @@ or it has failed.
   and planning are fine now; code is not.
 - Current phase: PREP ONLY. Spec written, checklist written,
   no code yet.
+- Nov 1, 2026: GitHub repo devans3001/my-kitchen-garden
+  created by Evans. Prep payload pushed (fullstack skill,
+  this handover, spec outline, README, AGENTS.md). When
+  working in that repo, its copy of this file is the live one;
+  keep both copies in step at each push.
 - Next action when the deposit lands: Stage 1 (foundation on
   placeholders plus test data), then stages 2 to 5, each one
   shown to Evans and approved before the next begins.
